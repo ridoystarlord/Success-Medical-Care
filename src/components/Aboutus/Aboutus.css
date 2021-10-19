@@ -1,0 +1,14 @@
+.about-title{
+    font-size: 45px;
+    color: #0B114A;
+}
+.about-title span{
+    color: #1ac167;
+}
+.achivement-card{
+    background-color: #000A6D !important;
+}
+.achivement-icon{
+    width: 50px !important;
+    height: 50px;
+}

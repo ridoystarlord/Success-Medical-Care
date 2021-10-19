@@ -1,0 +1,28 @@
+.icon-size{
+    width: 40px !important;
+    height: 40px;
+    color: #0B114A;
+}
+.icon-background{
+    height: 70px;
+    width: 70px;
+    background-color:#dcfbe9;
+    border-radius: 50%;
+}
+.service-department-title{
+    color: #000A6D;
+}
+.specialist-department{
+    font-size: 45px;
+    color: #0B114A;
+}
+.specialist-department span{
+    color: #1ac167;
+}
+
+.icon-background:hover{
+    background-color: #1ac167;
+}
+.icon-background:hover .icon-size{
+    color: white;
+}

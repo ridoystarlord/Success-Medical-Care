@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Dr. Jessica Brown",
+        "specialist": "Restorative Dentist",
+        "img": "https://user-images.githubusercontent.com/77241744/137808922-52ad7f71-5062-40ec-8bdf-1c611e5dde0d.png"
+    },
+    {
+        "id": "2",
+        "name": "Dr. Fessica Brown",
+        "specialist": "Dental Sugery",
+        "img": "https://user-images.githubusercontent.com/77241744/137808923-69028451-9b16-43cb-ae7e-a83834b828c3.png"
+    },
+    {
+        "id": "3",
+        "name": "Dr. Leopart Brown",
+        "specialist": "Orthopaedic",
+        "img": "https://user-images.githubusercontent.com/77241744/137808925-4881e0ab-42c2-4eb7-ab21-b30171c2b234.png"
+    },
+    {
+        "id": "4",
+        "name": "Dr. Norein Brown",
+        "specialist": "General Surgery",
+        "img": "https://user-images.githubusercontent.com/77241744/137808926-cdca2d6d-521e-4b19-989a-d73a6d0a842f.png"
+    },
+    {
+        "id": "5",
+        "name": "Dr. Adam Bill",
+        "specialist": "Neurology",
+        "img": "https://user-images.githubusercontent.com/77241744/137808928-1e411b4e-aa30-49e6-b5ca-cfccb76acc0a.png"
+    },
+    {
+        "id": "6",
+        "name": "Dr. Denzel Brown",
+        "specialist": "Women's Care",
+        "img": "https://user-images.githubusercontent.com/77241744/137808930-d72cf3d4-5f8d-479f-af6c-709b54ea5795.png"
+    },
+    {
+        "id": "7",
+        "name": "Dr. Israt Brown",
+        "specialist": "Dermatology",
+        "img": "https://user-images.githubusercontent.com/77241744/137808933-6ad8c706-5ce6-4996-a14c-4768f6e589d5.png"
+    },
+    {
+        "id": "8",
+        "name": "Dr.Labrica Brown",
+        "specialist": "Labrotory Testing",
+        "img": "https://user-images.githubusercontent.com/77241744/137808934-c890a93f-1962-4965-89da-121ae444cb5d.png"
+    }
+    
+]

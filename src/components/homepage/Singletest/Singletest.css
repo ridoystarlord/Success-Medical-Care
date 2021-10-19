@@ -1,0 +1,16 @@
+.test-details-footer{
+    background-color: white;
+}
+.test-name{
+    color: #0B114A;
+}
+.test-price{
+    color: #1ac167;
+}
+
+.view-details-btn{
+    background-color: #000A6D;
+}
+.view-details-btn:hover{
+    background-color: #000A6D;
+}

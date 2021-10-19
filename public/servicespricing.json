@@ -1,0 +1,67 @@
+[
+    {
+        "key": "1",
+        "name": "Blood count",
+        "price": 39,
+        "description": "Blood count, laboratory test that determines the number of red blood cells (erythrocytes) and white blood cells (leukocytes) in a given volume of blood.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749907-cfe036ea-0616-40cd-a4c1-8eb13e544172.jpg",
+        "report": "After 3 days"
+    },
+    {
+        "key": "2",
+        "name": "Bone marrow aspiration",
+        "price": 139,
+        "description": "Bone marrow aspiration, direct removal of a small amount (about 1–5 millilitres) of bone marrow by suction through a hollow needle.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749896-bab44b14-c02c-463d-b086-44fccc3e6778.jpg",
+        "report": "After 7 days"
+    },
+    {
+        "key": "3",
+        "name": "Magnetoencephalography",
+        "price": 239,
+        "description": "Magnetoencephalography (MEG), imaging technique that measures the weak magnetic fields emitted by neurons. An array of cylinder-shaped sensors monitors the magnetic field pattern near the patient’s head to determine the position and strength of activity in various regions of the brain. ",
+        "img": "https://user-images.githubusercontent.com/77241744/137749915-55d5e1cf-aa88-47b8-81b4-a1e712bfb792.png",
+        "report": "After 3 days"
+    },
+    {
+        "key": "4",
+        "name": "Immunologic blood test",
+        "price": 69,
+        "description": "Immunologic blood test, any of a group of diagnostic analyses of blood that employ antigens (foreign proteins) and antibodies (immunoglobulins) to detect abnormalities of the immune system.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749916-70e8870f-a252-4197-9515-889df33a650f.jpg",
+        "report": "After 1 days"
+    },
+    {
+        "key": "5",
+        "name": "Liver function test",
+        "price": 339,
+        "description": "Liver function test, any laboratory procedure that measures and assesses various aspects of liver function.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749924-b914fe3d-0121-4dd6-9493-38940c7fddc9.jpg",
+        "report": "After 15 days"
+    },
+    {
+        "key": "6",
+        "name": "Pregnancy test",
+        "price": 99,
+        "description": "Pregnancy test, procedure aimed at determining whether a woman is pregnant. Pregnancy tests are based on a detectable increase in human chorionic gonadotropin (HCG) in the blood serum and urine during early pregnancy.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749928-7cb4ba09-1439-4e13-87f8-36f8c688629e.jpg",
+        "report": "After 1 days"
+    },
+    {
+        "key": "7",
+        "name": "Schick test",
+        "price": 539,
+        "description": "Schick test, method for determining susceptibility to diphtheria; it laid the basis for inoculation against the disease. A minute amount of diphtheria toxin is injected into the skin of the forearm.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749932-61bd96f5-e544-4d07-879c-37888aa7ebb6.jpg",
+        "report": "After 10 days"
+    },
+    {
+        "key": "8",
+        "name": "Cardiac catheterization",
+        "price": 1039,
+        "description": "Cardiac catheterization, medical procedure by which a flexible plastic tube (catheter) is inserted into an artery or vein.",
+        "img": "https://user-images.githubusercontent.com/77241744/137749936-901fe043-9a50-4472-acb8-3dbdb15af040.jpg",
+        "report": "After 30 days"
+    }
+    
+]
