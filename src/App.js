@@ -1,6 +1,7 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Aboutus from "./components/Aboutus/Aboutus";
+import Ambulance from "./components/Ambulance/Ambulance";
 import Footer from "./components/common/Footer/Footer";
 import Footerwidget from "./components/common/Footerwidget/Footerwidget";
 import Header from "./components/common/Header/Header";
@@ -32,9 +33,9 @@ function App() {
             <Route path="/our-doctors">
               <Ourdoctors></Ourdoctors>
             </Route>
-            <Route path="/fix-appointement">
+            <PrivateRoute path="/fix-appointement">
               <Fixappointment></Fixappointment>
-            </Route>
+            </PrivateRoute>
             <Route path="/about-us">
               <Aboutus></Aboutus>
             </Route>
@@ -52,6 +53,9 @@ function App() {
             </Route>
             <PrivateRoute path="/testlist/:id">
               <Testdetails></Testdetails>
+            </PrivateRoute>
+            <PrivateRoute path="/ambulance">
+              <Ambulance></Ambulance>
             </PrivateRoute>
             <Route path="*">
               <Notfound></Notfound>

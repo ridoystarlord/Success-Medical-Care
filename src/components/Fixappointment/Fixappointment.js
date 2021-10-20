@@ -1,9 +1,11 @@
 import React from "react";
 import { Button, Col, Container, Form, Row } from "react-bootstrap";
+import useAuth from "../../hooks/useAuth";
 import img from "../../images/appointment.png";
 import "./Fixappointment.css";
 
 const Fixappointment = () => {
+  const { user } = useAuth();
   return (
     <Container className="my-5">
       <h1 className="specialist-department mb-5 text-center fw-bolder">
@@ -20,11 +22,19 @@ const Fixappointment = () => {
             <Row className="mb-3">
               <Form.Group as={Col} controlId="formGridPassword">
                 <Form.Label>Name</Form.Label>
-                <Form.Control type="text" placeholder="Name" />
+                <Form.Control
+                  type="text"
+                  placeholder="Name"
+                  defaultValue={user.displayName}
+                />
               </Form.Group>
               <Form.Group as={Col} controlId="formGridEmail">
                 <Form.Label>Email</Form.Label>
-                <Form.Control type="email" placeholder="Enter email" />
+                <Form.Control
+                  type="email"
+                  placeholder="Enter email"
+                  defaultValue={user.email}
+                />
               </Form.Group>
             </Row>
 

@@ -22,6 +22,9 @@ const Header = () => {
               <Nav.Link as={NavLink} to="/pricing">
                 Pricing
               </Nav.Link>
+              <Nav.Link as={NavLink} to="/ambulance">
+                Book Ambulance
+              </Nav.Link>
               <Nav.Link as={NavLink} to="/our-doctors">
                 Our Doctors
               </Nav.Link>
